@@ -16,11 +16,11 @@
 
  * "Contract Taxonomy." Use the ContractStandards Contract Taxonomy to tag Contracts by type.
 
- * "Publish." Switch to "Yes" if Contract should be published immediately. Users can change this option later.
-
  * "Contract Variables." Set default values for "Party A," "Party B," and "Party C" variables in the Contract.
 
 6. Click Save
+
+**Note**: A newly created Contract is Unpublished. Users must actively publish the Contract once they are done syncing Clauses. See [Editing a Contract](Edit_Contract.md) for guidance on publishing a Contract.
 
 
 
