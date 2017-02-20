@@ -67,5 +67,23 @@ Editing the Contract structure is done in the Contract's outline. To access the 
 
 7. Click the green "Sync" button
 
+## Edit Settings
+
+1. In Contract Editor, click on gears button next to the Contract Title at the top of the page.
+
+2. Select "Settings" from the menu.
+
+3. From the Contract Settings screen, users can
+ * Edit the Contract Title,
+ * Edit the Filename,
+ * Change the Contract Taxonomy,
+ * Publish or Unpublish the Contract,
+ * Adjust the Party A, B, and C variables, and
+ * Edit the Overview
+ 
+ 4. After the user makes any changes, click "Save" to Publish changes.
+ 
+ 5. Users may also delete an entire Contract by clicking the "Delete" button. All Clause language will be preserved in teh Clause library when a Contract is deleted.
+
 
 [selected-clause-block]: img/selected-clause-block.png
