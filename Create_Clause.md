@@ -1,3 +1,6 @@
+<style>
+ p img{height:100px;width:auto}
+</style>
 # Creating a Clause
 
 The "Clause" in ContractStandards is the umbrella page to organize and provide general guidance for the Clause's underlying Clause Alternatives. This is where users will provide general information that applies to that type of Clause. Think key points like a common heading name, general description, and in-depth discussion/guidance.
