@@ -1,6 +1,6 @@
 ## Basics
 
-1. [Overview](Overview.md)
+<!-- 1. [Overview](Overview.md) -->
 2. [Logging In and Out](Login.md)
 3. [Navigating the Site](Published_View_Navigation.md)
 4. [User Profiles](User_Profile.md)
@@ -15,20 +15,20 @@
 
 ## Private Libraries
 
-1. [Managing Private Libraries](Organization_Management.md)
+<!-- 1. [Managing Private Libraries](Organization_Management.md) -->
 2. [Document Assembly](Document_Assembly.md)
-3. [Copying Public Content](Copy_Public_Content.md)
+<!-- 3. [Copying Public Content](Copy_Public_Content.md) -->
 4. [Comments](Comments.md)
 
 ## Smart Content
 
 1. ["Smart" Content](Smart_Content.md)
-2. [Template Harmonization](Harmonization.md)
-3. [Visualizations](Visualization.md)
+<!-- 2. [Template Harmonization](Harmonization.md)
+3. [Visualizations](Visualization.md) -->
 
-## User Stories
+<!-- ## User Stories
 
-1. [User Story #1](User_Story_1.md)
+1. [User Story #1](User_Story_1.md) -->
 
 
 
