@@ -24,3 +24,5 @@ Some individual Clauses have Sliders that allow the user to adjust that Clause's
 
 ## Clause Dropdowns
 
+For longer lists of Clause Alternatives, the Assembly tool provides a dropdown of Clause Alternatives for the user to choose from. Each dropdown will have the Key Question at the top of the menu and a list of Clause Alternatives. Selecting a Clause Alternative will update that Clause in the Contract.
+
