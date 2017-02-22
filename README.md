@@ -23,8 +23,8 @@
 ## Smart Content
 
 1. ["Smart" Content](Smart_Content.md)
-<!-- 2. [Template Harmonization](Harmonization.md)
-3. [Visualizations](Visualization.md) -->
+<!-- 2. [Template Harmonization](Harmonization.md) -->
+<!-- 3. [Visualizations](Visualization.md) -->
 
 <!-- ## User Stories
 
