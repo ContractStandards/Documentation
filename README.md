@@ -2,7 +2,7 @@
 
 1. [Overview](Overview.md)
 2. [Logging In and Out](Login.md)
-<!-- 3. [Navigating the Site](Published_View_Navigation.md) -->
+3. [Navigating the Site](Published_View_Navigation.md)
 4. [User Profiles](User_Profile.md)
 
 
