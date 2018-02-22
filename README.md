@@ -19,7 +19,7 @@
 2. [Organization Roles](Organization_Roles.md)
 3. [Document Assembly](Document_Assembly.md)
 <!-- 4. [Copying Public Content](Copy_Public_Content.md) -->
-5. [Comments](Comments.md)
+4. [Comments](Comments.md)
 
 ## Smart Content
 
