@@ -25,7 +25,7 @@
 
 1. [Smart Content Overview](Smart_Content.md)
 2. [Visualizations](Visualization.md)
-<!-- 3. [Template Harmonization](Harmonization.md) -->
+3. [Contract Harmonization](Harmonization.md)
 
 <!-- ## User Stories
 
