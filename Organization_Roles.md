@@ -1,3 +1,5 @@
+##### [Home](README.md) **Private Libraries:** [Managing Private Libraries](Organization_Management.md) / Organization Roles / [Document Assembly](Document_Assembly.md) / [Comments](Comments.md)
+
 # Organization Roles
 
 1. Admin. Full access. Admins can edit and publish content as well as invite new users and manage Private Library settings.
