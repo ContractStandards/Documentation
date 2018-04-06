@@ -1,4 +1,4 @@
-##### [Home](README.md) **Smart Content:** [Smart Content Overview](Smart_Content.md) / Visualizations / [Contract Harmonization](Harmonization.md)
+##### [Home](README.md) **Smart Content:** [Overview](Smart_Content.md) / Visualizations / [Contract Harmonization](Harmonization.md)
 
 # Visualizations (*Smart Feature*)
 
