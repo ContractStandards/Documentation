@@ -5,7 +5,6 @@
 3. [Navigating the Site](Published_View_Navigation.md)
 4. [User Profiles](User_Profile.md)
 
-
 ## Creating/Editing Content
 
 1. [Creating a Clause](Create_Clause.md)
@@ -18,7 +17,6 @@
 1. [Managing Private Libraries](Organization_Management.md)
 2. [Organization Roles](Organization_Roles.md)
 3. [Document Assembly](Document_Assembly.md)
-<!-- 4. [Copying Public Content](Copy_Public_Content.md) -->
 4. [Comments](Comments.md)
 
 ## Smart Content
@@ -26,17 +24,3 @@
 1. [Smart Content Overview](Smart_Content.md)
 2. [Visualizations](Visualization.md)
 3. [Contract Harmonization](Harmonization.md)
-
-<!-- ## User Stories
-
-1. [User Story #1](User_Story_1.md) -->
-
-
-
-
-
-
-
-
-
-
