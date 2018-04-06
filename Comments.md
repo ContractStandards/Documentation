@@ -1,3 +1,5 @@
+##### [Home](README.md) **Private Libraries:** [Managing Private Libraries](Organization_Management.md) / [Organization Roles](Organization_Roles.md) / [Document Assembly](Document_Assembly.md) / Comments
+
 # Commenting on Content
 
 If Comments are enabled in a Private Library, users will be able to comment and rate Contracts and Clauses. See [Organizational Management](Organization_Management.md) for information on enabling Comments.
