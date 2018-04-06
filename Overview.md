@@ -1,3 +1,5 @@
+##### [Home](README.md) | **Basics Pages:** Overview / [Logging In and Out](Login.md) / [Navigating the Site](Published_View_Navigation.md) / [User Profiles](User_Profile.md)
+
 # ContractStandards Overview
 
 ContractStandards is a platform that allows organizations to create and maintain contract libraries. 
@@ -17,7 +19,3 @@ For a deeper dive into the platform, take a look at these videos:
 1. [Modular Platform](https://youtu.be/eFFJ9U7Vt_0)
 2. [Updating Clauses across Contracts](https://youtu.be/UF6fWDp4kJs)
 3. [Clause Reuse](https://youtu.be/xd5aHNJ6nWc)
-
-
-
- 
