@@ -1,4 +1,4 @@
-##### [Home](README.md) | **Basics Pages:** Overview / [Logging In and Out](Login.md) / [Navigating the Site](Published_View_Navigation.md) / [User Profiles](User_Profile.md)
+##### [Home](README.md) | **Basics Pages:** Overview / [Log In and Out](Login.md) / [Navigating the Site](Published_View_Navigation.md) / [User Profiles](User_Profile.md)
 
 # ContractStandards Overview
 
