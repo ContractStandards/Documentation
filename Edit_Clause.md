@@ -1,3 +1,5 @@
+##### [Home](README.md) | **Creating/Editing Content:** [Creating a Clause](Create_Clause.md) / Editing a Clause / [Creating a Contract](Create_Contract.md) / [Editing a Contract](Edit_Contract.md)
+
 # Editing a Clause
 
 ## Getting to the Clause Edit Screen
