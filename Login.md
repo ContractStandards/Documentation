@@ -1,3 +1,5 @@
+##### [Home](README.md) | **Basics Pages:** [Overview](Overview.md) / Log In and Out / [Navigating the Site](Published_View_Navigation.md) / [User Profiles](User_Profile.md)
+
 # Log In and Log Out
 
 ## Log In
