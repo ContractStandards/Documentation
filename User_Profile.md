@@ -1,3 +1,5 @@
+##### [Home](README.md) | **Basics Pages:** [Overview](Overview.md) / [Log In and Out](Login.md) / [Navigating the Site](Published_View_Navigation.md) / User Profiles
+
 # Accessing and Updating User Profile
 
 Users can edit their

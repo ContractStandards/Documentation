@@ -1,3 +1,5 @@
+##### [Home](README.md) **Private Libraries:** Managing Private Libraries / [Organization Roles](Organization_Roles.md) / [Document Assembly](Document_Assembly.md) / [Comments](Comments.md)
+
 # Managing Private Libraries
 
 Admins have a number of options to control access to their Private Libraries and how their content is displayed to other users. Below is an overview of the different Private Library setup options and what they mean for users.

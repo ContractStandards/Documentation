@@ -1,3 +1,5 @@
+##### [Home](README.md) **Private Libraries:** [Managing Private Libraries](Organization_Management.md) / [Organization Roles](Organization_Roles.md) / Document Assembly / [Comments](Comments.md)
+
 # Document Assembly
 
 As users provide guidance at the Clause level by tagging Clause Alternatives with labels, party-weight, clause status, and contract type, ContractStandards automatically generates an Assembly solution for a Contract. This article is an overview of how to use the Assembly tool once it is generated. Visit [Editing a Clause](Edit_Clause.md) to learn how to mark up Clauses to generate the Assembly tool.

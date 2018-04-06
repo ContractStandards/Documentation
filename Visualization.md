@@ -1,3 +1,5 @@
+##### [Home](README.md) **Smart Content:** [Overview](Smart_Content.md) / Visualizations / [Harmonization](Harmonization.md)
+
 # Visualizations (*Smart Feature*)
 
 The ContractStandards Visualization tool displays a bubble chart showing the commonality and consistency of clause types in a particular type of contract. These statistics are pulled from our machine learning software, KMAuthor.

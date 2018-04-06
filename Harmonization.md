@@ -1,3 +1,7 @@
+##### [Home](README.md) **Smart Content:** [Overview](Smart_Content.md) / [Visualizations](Visualization.md) / Harmonization
+
+# Harmonization
+
 Check out the video here to get a detailed walkthrough of Contract Harmonization in ContractStandards:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-AUDFmUmG9E
