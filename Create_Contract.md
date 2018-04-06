@@ -1,3 +1,5 @@
+##### [Home](README.md) | **Creating/Editing Content:** [Creating a Clause](Create_Clause.md) / [Editing a Clause](Edit_Clause.md) / Creating a Contract / [Editing a Contract](Edit_Contract.md)
+
 # Create a Contract
 
 1. Login to your ContractStandards Account.
